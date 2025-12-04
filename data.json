@@ -1,0 +1,26 @@
+[
+	{
+		"Id": 2,
+		"Description": "dsadsada",
+		"CreatedAt": "2025-11-30T15:44:05.4387138+03:00",
+		"Amount": 13
+	},
+	{
+		"Id": 3,
+		"Description": "aa",
+		"CreatedAt": "2025-12-30T15:44:08.3406433+03:00",
+		"Amount": 100
+	},
+	{
+		"Id": 4,
+		"Description": "penis",
+		"CreatedAt": "2025-11-30T15:44:09.2695492+03:00",
+		"Amount": 100
+	},
+	{
+		"Id": 5,
+		"Description": "aaa",
+		"CreatedAt": "2025-12-04T10:28:17.5685911+03:00",
+		"Amount": 13
+	}
+]
