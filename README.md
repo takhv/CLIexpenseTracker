@@ -1,6 +1,9 @@
 # Expense Tracker CLI
 Простой консольный трекер расходов на Golang с использованием библиотеки Cobra
 
+## ТЗ
+https://roadmap.sh/projects/expense-tracker
+
 ## Установка
 ### Требования
 * Go 1.16 или выше
